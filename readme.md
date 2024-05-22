@@ -25,7 +25,7 @@ where csv_file is your edited csv. output_directory is a temporary directory for
 
 - if a score occured in clip, notate Y/N in smite scored? column
     - if no score occurs, place any other string in column (note incomplete)
-- if a point is missed, add a TEXT line and indicate corrected score in "smite-scored" column in <smite score>-<opscore> format
+- if a point is missed, add a TEXT line and indicate corrected score in "smite-scored" column in `<smite score>-<opscore>` format
 - if you wish to insert a blank text screen type TEXT in the file column, the text you wish to appear in "start timestamp"
 - the final score and running score are automatically added to the video.
 - chop off the front/end of any clip by typing in "start timestamp" or endtimestamp.
